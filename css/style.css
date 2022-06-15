@@ -1,0 +1,24 @@
+header{
+    z-index: 100;
+}
+
+li{
+    list-style: none;
+}
+
+.formulario {
+    background-color: pink;
+    font-weight: bold;
+    color: grey;
+    border-radius: 50px;
+}
+
+.estilo{
+    background-color: pink;
+    padding: 40px;
+}
+
+.titulo{
+    background-color: beige;
+    font-weight: bold;
+}
